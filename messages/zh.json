@@ -1,26 +1,26 @@
 {
   "Product": {
     "name": "ScriptCraft",
-    "solgan": "创意到剧本，AI全程助力。"
+    "solgan": "美好护肤，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
       "title": "ScriptCraft"
     },
     "Hero": {
-      "title": "欢迎来到Freya的超级剧本创作工作台",
-      "description": "逐场景打造您的故事。使用我们直观的工具和协作功能，提升您的剧本创作过程。",
+      "title": "欢迎来到护理空间",
+      "description": "打造肌肤神话。使用我们直观的工具和协作功能，提升您的护肤体验。",
       "cta": "开始使用"
     },
     "Features": {
       "title": "主要功能",
       "characterProfile": {
-        "title": "角色档案生成器",
-        "description": "轻松创建详细的角色档案。"
+        "title": "护肤品生成器",
+        "description": "轻松创建详细的护肤档案。"
       },
       "storyStructure": {
-        "title": "故事结构",
-        "description": "使用强大的结构工具组织您的故事。"
+        "title": "护理日程",
+        "description": "使用强大的结构工具组织您的日常。"
       },
       "sceneEditor": {
         "title": "场景编辑器",
@@ -28,25 +28,25 @@
       },
       "aiTools": {
         "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的写作。"
+        "description": "利用AI驱动的建议提升您的护理步骤。"
       }
     },
     "Testimonials": {
       "title": "用户评价",
       "testimonial1": {
         "name": "Sarah Johnson",
-        "role": "编剧",
-        "content": "ScriptCraft彻底改变了我的写作过程。角色档案生成器简直是一个革命性的工具！"
+        "role": "油皮",
+        "content": "彻底改变了我的护肤过程。简直是一个革命性的工具！"
       },
       "testimonial2": {
         "name": "Michael Lee",
-        "role": "电影导演",
-        "content": "ScriptCraft的场景编辑器让我能轻松可视化和完善每一个故事瞬间。"
+        "role": "干皮",
+        "content": "让我能轻松可视化和完善每一个护理瞬间。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
-        "role": "电视制片人",
-        "content": "AI辅助工具帮助我无数次克服了写作障碍。强烈推荐！"
+        "role": "混油",
+        "content": "AI辅助工具帮助我无数次克服了护理障碍。强烈推荐！"
       }
     },
     "Header": {
@@ -69,12 +69,12 @@
       "email": "support@scriptcraft.com",
       "address1": "123 编剧大道",
       "address2": "好莱坞，加利福尼亚州 90028",
-      "cta": "今天开始您的编剧之旅",
+      "cta": "今天开始您的护理之旅",
       "startFreeTrial": "开始免费试用",
       "copyright": "© 2023 ScriptCraft。保留所有权利。"
     },
     "ProductShowcase": {
-      "title": "场景by场景，精心打造您的故事",
+      "title": "场景by场景，精心打造您的肌肤故事",
       "imageAlt": "ScriptCraft界面"
     }
   },
