@@ -1,11 +1,11 @@
 {
   "Product": {
-    "name": "ScriptCraft",
+    "name": "ScriptCraftSKINCARE.FREYAAREA",
     "solgan": "美好护肤，AI全程助力。"
   },
   "LandingPage": {
     "Index": {
-      "title": "ScriptCraft"
+      "title": "ScriptCraftSKINCARE.FREYAAREA"
     },
     "Hero": {
       "title": "欢迎来到护理空间",
@@ -16,19 +16,19 @@
       "title": "主要功能",
       "characterProfile": {
         "title": "护肤品生成器",
-        "description": "轻松创建详细的护肤档案。"
+        "description": "根据皮肤性质轻松创建详细的护肤品档案，为您找到适合的品牌！"
       },
       "storyStructure": {
         "title": "护理日程",
-        "description": "使用强大的结构工具组织您的护肤日常。"
+        "description": "使用强大的结构工具组织您的护肤日常，只需描述您的肌肤状态，即可生成当日对应的专业护肤步骤。"
       },
       "sceneEditor": {
-        "title": "场景编辑器",
-        "description": "精准编辑和完善您的场景。"
+        "title": "护理建议",
+        "description": "根据日、月、年统计，精准生成报告，改善您的肌肤状况。"
       },
       "aiTools": {
-        "title": "AI辅助工具",
-        "description": "利用AI驱动的建议提升您的护理步骤。"
+        "title": "AI陪伴",
+        "description": "24小时的AI陪伴，是您的知心好友、成长助手兼护肤专家！"
       }
     },
     "Testimonials": {
@@ -41,12 +41,12 @@
       "testimonial2": {
         "name": "Michael Lee",
         "role": "干皮",
-        "content": "让我能轻松可视化和完善每一个护理瞬间。"
+        "content": "让我能轻松可视化每一个护理流程，享受护理时光。"
       },
       "testimonial3": {
         "name": "Emily Rodriguez",
         "role": "混油",
-        "content": "AI辅助工具帮助我无数次克服了护理障碍。强烈推荐！"
+        "content": "AI辅助工具帮助我成功去除痘痘。强烈推荐！"
       }
     },
     "Header": {
